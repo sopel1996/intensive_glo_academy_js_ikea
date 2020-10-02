@@ -1,3 +1,4 @@
+
 const generateFooter = () => {
     const footer = `
         <footer>
